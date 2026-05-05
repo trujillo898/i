@@ -33,6 +33,12 @@ Busco oportunidades para aplicar mi capacidad de aprendizaje rápido, pensamient
 
 ## 💼 Experiencia Profesional
 
+### KineHub | Clinica Angeles - Antofagasta | 2026
+- Desarrollo una WebApp en Nextjs, Dashboard, Agendamiento, Base de Datos (Supabase), Desing System.
+
+### Proyecto Personal | 2026 
+- Identifiqué oportunidades para automatizar reportes manuales con scripts Python ().
+
 ### Operador IC | TEAMWORK — Antofagasta | 2025
 - Apoyo en procesos comerciales y operativos con enfoque en eficiencia.
 - Desarrollo de habilidades en trabajo bajo presión y resolución ágil de incidencias.
@@ -43,7 +49,6 @@ Busco oportunidades para aplicar mi capacidad de aprendizaje rápido, pensamient
 
 ### Asistente de Inventarios | REBUSS — Antofagasta | 2025
 - Organización y control de stock, apoyo en logística y reportes.
-- **Aporte técnico**: Identifiqué oportunidades para automatizar reportes manuales con scripts Python (proyecto personal).
 
 ### Barbero a Domicilio | Independiente — Antofagasta | 2021-2024
 - Gestión autónoma de agenda, clientes y servicios.
