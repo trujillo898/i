@@ -33,8 +33,8 @@ Busco oportunidades para aplicar mi capacidad de aprendizaje rápido, pensamient
 
 ## 💼 Experiencia Profesional
 
-### KineHub | Clinica Angeles - Antofagasta | 2026
-- Desarrollo una WebApp en Nextjs, Dashboard, Agendamiento, Base de Datos (Supabase), Desing System.
+### AI Builder | Clinica Angeles - Antofagasta | 2026
+- Desarrollo un sistema "KineHub" WebApp en Nextjs, Dashboard, Agendamiento, Base de Datos (Supabase), Desing System.
 
 ### Proyecto Personal | 2026 
 - Identifiqué oportunidades para automatizar reportes manuales con scripts Python ().
