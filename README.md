@@ -37,15 +37,15 @@ Busco oportunidades para aplicar mi capacidad de aprendizaje rápido, pensamient
 - Apoyo en procesos comerciales y operativos con enfoque en eficiencia.
 - Desarrollo de habilidades en trabajo bajo presión y resolución ágil de incidencias.
 
-### Vendedor Premium | Varsovienne — Antofagasta | 2024-2025
+### Vendedor Premium | Varsovienne — Antofagasta | 2025
 - Atención personalizada a clientes, gestión de inventario y cierre de ventas.
 - Aplicación de técnicas de comunicación efectiva y manejo de objeciones.
 
-### Asistente de Inventarios | REBUSS — Antofagasta | 2024
+### Asistente de Inventarios | REBUSS — Antofagasta | 2025
 - Organización y control de stock, apoyo en logística y reportes.
 - **Aporte técnico**: Identifiqué oportunidades para automatizar reportes manuales con scripts Python (proyecto personal).
 
-### Barbero a Domicilio | Independiente — Antofagasta | 2024-2025
+### Barbero a Domicilio | Independiente — Antofagasta | 2021-2024
 - Gestión autónoma de agenda, clientes y servicios.
 - Desarrollo de disciplina, puntualidad y capacidad de adaptación a entornos cambiantes.
 
